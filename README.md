@@ -1,2 +1,2 @@
 # Hello-World
-this is my first repo, and i hope it will be good
+this is my first repo, and i am sure it will be good
